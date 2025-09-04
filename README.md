@@ -6,6 +6,7 @@ A modern, responsive, and professional Corporate Website built to help businesse
 
 I am a Full Stack Developer (MERN) with expertise in designing and developing interactive and scalable web applications. This corporate website project highlights my frontend development skills and demonstrates how a business website can drive customer engagement through a modern and responsive interface.
 
+
 ✨ Key Highlights
 
 ✅ Responsive Design – Fully optimized for desktop, tablet, and mobile devices
@@ -29,6 +30,7 @@ I am a Full Stack Developer (MERN) with expertise in designing and developing in
 ✅ Contact Form – Integrated form for client inquiries and leads generation
 
 
+
 ⚙️ Technologies Used
 
 HTML5 – For semantic and structured markup
@@ -38,6 +40,7 @@ CSS3 – For styling, responsiveness, and animations
 Bootstrap 5 – For grid system and modern UI components
 
 JavaScript (Vanilla JS) – For dynamic content and interactivity
+
 
 
 

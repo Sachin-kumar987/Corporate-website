@@ -13,7 +13,12 @@ I am a Full Stack Developer (MERN) with expertise in designing and developing in
 
 
 🚩 Live Demo
+
 Current version running at: https://corporate-website-xi-lilac.vercel.app/
+
+Note
+
+It may take up to 1 minute for the site to be brought up while the loading indicator is displayed, since free instances in Render will spin down with inactivity which can delay requests by 50 seconds or more.
 
 
 ✨ Key Highlights
